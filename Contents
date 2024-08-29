@@ -1,0 +1,9 @@
+portfolio-website/
+├── index.html
+├── about.html
+├── projects.html
+├── experience.html
+├── skills.html
+├── contact.html
+└── styles/
+    └── style.css
